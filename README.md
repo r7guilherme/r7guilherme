@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @r7guilherme
+- 🎓 Accounting sciences
+- 🎓 Nautical sciences
+- 👀 I’m interested in programming, electronics and robotics
+- 🌱 I’m currently learning c++

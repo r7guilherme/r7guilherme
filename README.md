@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @r7guilherme
-- 🎓 Accounting sciences
+-  ₿ Bitcoiner
 - 🎓 Nautical sciences
 - 👀 I’m interested in programming, electronics and robotics
 - 🌱 I’m currently learning Python
